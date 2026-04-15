@@ -7,12 +7,9 @@ import Card from './card'
 const Home = () => {
 	return (
 		<div>
-			<Navbar/>
-			<Jumbotron/>
+			<Navbar />
+			<Jumbotron />
 			<Card/>
-			<Card/>
-			<Card/>
-			<card/>
 		</div>
 	);
 };

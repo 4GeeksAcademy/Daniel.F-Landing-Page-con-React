@@ -1,15 +1,14 @@
 import React from "react";
 
 const Card = () => {
-  return (
+	return (
+    <div>
 
-    <div className="card">
-      <h3>{title}</h3>
-      <p>{description}</p>
-      <button>{buttonText}</button>
-    </div>
+      
 
-  );
+		</div>
+
+	);
 };
 
-      export default Card;
+export default Card;
